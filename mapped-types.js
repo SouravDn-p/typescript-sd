@@ -1,2 +1,5 @@
-var hello = "ami je World!";
-console.log(hello);
+var area1 = {
+    height: 10,
+    width: 10,
+};
+console.log({ area1: area1 });
