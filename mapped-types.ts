@@ -14,3 +14,4 @@ const area1: Area<{ height: number; width: number }> = {
 };
 
 console.log({ area1 });
+console.log({ area1 });
